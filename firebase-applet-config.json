@@ -1,11 +1,9 @@
 {
-  "projectId": "gen-lang-client-0529558718",
-  "appId": "1:598288648017:web:4bf60267e6253726e4b570",
-  "apiKey": "AIzaSyCMI8PlM5gHo5xqFIYUvggCuWsxuGEymng",
-  "authDomain": "gen-lang-client-0529558718.firebaseapp.com",
-  "storageBucket": "gen-lang-client-0529558718.firebasestorage.app",
-  "messagingSenderId": "598288648017",
-  "measurementId": "",
-  "oAuthClientId": "598288648017-fvs9sh5enm7esgtbv6i9aldvppktov9g.apps.googleusercontent.com",
-  "recaptchaSiteKey": ""
+  "apiKey": "AIzaSyCB_oN9Uf_wOd6gidpNuSK812pWvfCtzDo",
+  "authDomain": "coab-mediat.firebaseapp.com",
+  "projectId": "coab-mediat",
+  "storageBucket": "coab-mediat.firebasestorage.app",
+  "messagingSenderId": "949232808789",
+  "appId": "1:949232808789:web:0d85036e944f9462a635dc",
+  "measurementId": "G-N66NSM1Y5H"
 }
