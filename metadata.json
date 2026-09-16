@@ -1,0 +1,6 @@
+{
+  "name": "COAB Media Tracker",
+  "description": "College of Accountancy & Business Media Tracker App with Google Account, Calendar, Gmail & Drive integration, Eisenhowever matrix deliverable tracking, and team directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
